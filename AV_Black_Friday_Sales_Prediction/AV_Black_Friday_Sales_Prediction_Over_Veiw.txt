@@ -1,0 +1,4 @@
+AV_Balck_Friday_Sales_Prediction
+
+Model - XGBoost
+RMSE - 2574.788
