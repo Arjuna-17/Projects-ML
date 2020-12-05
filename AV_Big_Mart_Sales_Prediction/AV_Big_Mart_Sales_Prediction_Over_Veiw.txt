@@ -1,5 +1,0 @@
-AV_Big_Mart_Sales_Prediction_Over_View
-
-RMSE - 1161.193
-
-Model - Lightgbm
