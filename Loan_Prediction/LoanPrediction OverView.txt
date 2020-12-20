@@ -1,0 +1,5 @@
+LoanPrediction
+
+Model - Decision Tree, XGBoost, LIghtGBM Ensemble Model
+
+Accuracy - 79.16%
