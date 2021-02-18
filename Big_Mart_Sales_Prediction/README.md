@@ -6,7 +6,7 @@ In the data set 8523 data points for training and 5681 data points for predictio
 
 BigMartSales.ipynb file contains the **exploratory data analysis, feature engineering and transformation, outlier detection and treatment and statical analysis with correlation between features of the data set** and after data preprocessing the final data set contains **19 features which includes the additional 3 features after feature engineering with correlation of 0.49**.
 
-The final data set is used train on models like linear regression, knearest neighbors, decision tree, random forest etc.
+The final data set is used for training models like linear regression, knearest neighbors, decision tree, random forest etc.
 
 After training, XGBoost, CatBoost and LightGBM performed better than others. Especially LightGBM model given high weights for the features having high correlation with target variable.
 
