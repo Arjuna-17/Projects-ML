@@ -1,5 +1,0 @@
-Big Mart Sales Prediction Over View
-
-RMSE - 1148.033
-
-Model - XGBoost
