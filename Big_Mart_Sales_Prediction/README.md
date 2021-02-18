@@ -10,4 +10,4 @@ The final data set is used train on models like linear regression, knearest neig
 
 After training, XGBoost, CatBoost and LightGBM performed better than others. Especially LightGBM model given high weights for the features having high correlation with target variable.
 
-Finally I ended up having a **test MSE of 1148.033** and 295 out of 39655(on 5th December 2020) participants on Analytics Vidhya Hackathons.
+Finally I ended up having a **test MSE of 1148.033** and gaining a rank of **295 out of 39655**(on 5th December 2020) participants on Analytics Vidhya Hackathons.
