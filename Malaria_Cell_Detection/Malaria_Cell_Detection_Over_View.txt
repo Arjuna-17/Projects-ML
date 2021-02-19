@@ -1,8 +1,0 @@
-Malaria_Cell_Detection
-
-Accuracy - 93.4%
-
-Model - CNN(DL)
-
-Images - Train - https://drive.google.com/drive/folders/1Sww3IoREBo1IzS_a4MT3CKxkqEo5aqdS?usp=sharing
-Images - Test - https://drive.google.com/drive/folders/1Y_WHBMM4dppBILcI1_0E1KGTGEObwUbd?usp=sharing
